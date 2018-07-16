@@ -1,0 +1,15 @@
+{
+    "name": "xobat/mvc",
+    "description": "MVC engine",
+    "type": "project",
+    "require": {
+        "twig/twig": "^2.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xobotok",
+            "email": "meshcheryakov.m.i@yandex.ru"
+        }
+    ]
+}
